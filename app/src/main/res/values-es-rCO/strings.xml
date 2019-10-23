@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="new1">Nuevo Producto</string>
+    <string name="category">Categoria</string>
+    <string name="Quantity">Cantidad</string>
+    <string name="Register">Registrarme</string>
+    <string name="Product">Producto</string>
+</resources>

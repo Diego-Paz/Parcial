@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="new1">New Product</string>
+    <string name="category">Category</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Register">Register</string>
+    <string name="Product">Product</string>
+
+
+
+</resources>
